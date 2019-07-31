@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "MicroServicesEurekaGradle",
+    "packageName": "com.prudential.pgim.fi",
+    "packageFolder": "com/prudential/pgim/fi",
+    "serverPort": 9090,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mssql",
+    "prodDatabaseType": "mssql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.2",
+    "jwtSecretKey": "NGUzMTYyMTAzYzIyMjFmNjk0NzQ4M2IwNWViYjY1MDNlMzQ4NmJkYmVhYzk5M2FjNGM1NGRiNWY0ODdkNmEyZjJhYWQ0NzBiOWM1MWViZDlhN2FiZTY1YzBkNDM4YTc1NGZmYzU5Y2U3ZTVhN2Y0ZjAzNDM2NGJlZTFmY2M5MjY=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "SandrdaLi",
+  "repository-name": "MicroServicesEureka"
+}
